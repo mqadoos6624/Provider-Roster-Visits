@@ -25,7 +25,7 @@ Feel free to use this repository as a basis for solving these problems. You can 
 Please provide your code in some format so we can attempt to run it during evaluation. Examples include github/gitlab links, .scala files, zipped folders containing the modified source project.
 
 
-RUN: 
-sbt compile
+RUN:
 
+sbt compile
 sbt run
