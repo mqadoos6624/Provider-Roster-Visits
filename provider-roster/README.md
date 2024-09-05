@@ -27,4 +27,5 @@ Please provide your code in some format so we can attempt to run it during evalu
 
 RUN: 
 sbt compile
+
 sbt run
