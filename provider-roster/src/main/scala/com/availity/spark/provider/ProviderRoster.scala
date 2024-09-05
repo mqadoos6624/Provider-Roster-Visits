@@ -13,7 +13,7 @@ object ProviderRoster {
     import spark.implicits._
 
     // Read the providers.csv file
-	// We can also pass customer schema here.
+	// We can also pass custom schema here.
     val providers = spark.read
       .option("header", "true")
       .option("delimiter", "|")
